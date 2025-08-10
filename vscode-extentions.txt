@@ -1,0 +1,32 @@
+// ===== Code Editing & Productivity =====
+formulahendry.auto-rename-tag  // Auto-renames paired tags — saves time
+aaron-bond.better-comments    // Makes comments colorful and easy to spot
+dbaeumer.vscode-eslint        // Finds and fixes JS/TS code issues
+esbenp.prettier-vscode        // Keeps code style neat and consistent
+xabikos.JavaScriptSnippets    // Handy JS snippets for faster coding
+wix.vscode-import-cost        // Shows how big your imports really are
+christian-kohler.npm-intellisense // Autocompletes npm packages while typing
+christian-kohler.path-intellisense // Helps with file path autocomplete
+Gruntfuggly.todo-tree         // Shows all TODOs and FIXMEs in one place
+WallabyJs.quokka-vscode       // Instant feedback while playing with code
+
+// ===== UI & Visual Helpers =====
+pranaygp.vscode-css-peek      // Peek at CSS directly from your HTML
+usernamehw.errorlens          // Highlights errors right where they happen
+chadalen.vscode-jetbrains-icon-theme // JetBrains-style icons — looks slick
+kisstkondoros.vscode-gutter-preview  // Shows small image previews in gutter
+shd101wyy.markdown-preview-enhanced  // Great markdown preview with extras
+
+// ===== Web & Framework Support =====
+ecmel.vscode-html-css         // Better HTML and CSS autocomplete
+bradlc.vscode-tailwindcss     // Tailwind CSS autocomplete and linting
+
+// ===== Testing & Automation =====
+Orta.vscode-jest              // Run and debug Jest tests easily
+ms-playwright.playwright      // Playwright tests integrated in VSCode
+humao.rest-client             // Test APIs right inside the editor
+
+// ===== Collaboration & Version Control =====
+eamodio.gitlens              // Supercharge Git blame and history
+mhutchie.git-graph           // Visualize your Git branches and commits
+MS-vsliveshare.vsliveshare   // Share your coding session in real-time
