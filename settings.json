@@ -1,0 +1,66 @@
+{
+  // ===== Fonts & Typography =====
+  "editor.fontFamily": "'Operator Mono', 'Fira Code', monospace", // fonts
+  "editor.fontLigatures": true, // ligatures on
+  "editor.fontSize": 15, // comfy size
+  "editor.lineHeight": 22, // space between lines
+  "editor.letterSpacing": 0.3, // slight letter spacing
+  // ===== Cursor =====
+  "editor.cursorStyle": "line", // thin cursor
+  "editor.cursorBlinking": "phase", // smooth blink
+  "editor.cursorSmoothCaretAnimation": "on", // smooth movement
+  // ===== Editor Layout =====
+  "editor.minimap.enabled": false, // no minimap
+  "editor.renderWhitespace": "boundary", // show spaces only where needed
+  "editor.renderControlCharacters": false, // hide control chars
+  "editor.wordWrap": "on", // wrap lines
+  // ===== Tabs & Indentation =====
+  "editor.tabSize": 2, // 2 spaces per tab
+  "editor.insertSpaces": true, // spaces not tabs
+  "editor.autoIndent": "advanced", // smart indent
+  // ===== Formatting & Suggestions =====
+  "editor.formatOnSave": true, // auto format on save
+  "editor.lightbulb.enabled": "on", // quick fix hint
+  "editor.codeLens": false, // hide code lens
+  "editor.glyphMargin": true, // show margin icons
+  "editor.stickyScroll.enabled": false, // no sticky scroll
+  "editor.inlayHints.enabled": "off", // no inline hints
+  "editor.inlineSuggest.enabled": true, // show inline suggestions
+  "editor.suggest.snippetsPreventQuickSuggestions": false, // snippets + suggestions together
+  // ===== Brackets & Scrolling =====
+  "editor.bracketPairColorization.enabled": true, // color matching brackets
+  "editor.guides.bracketPairs": true, // bracket guides
+  "editor.smoothScrolling": true, // smooth scroll
+  // ===== Quick Suggestions =====
+  "editor.quickSuggestions": {
+    "other": true,
+    "comments": false,
+    "strings": true
+  },
+  // ===== File Handling =====
+  "files.trimTrailingWhitespace": true, // clean trailing spaces
+  "files.insertFinalNewline": true, // newline at file end
+  // ===== Emmet =====
+  "emmet.includeLanguages": { // Emmet for js/jsx
+    "javascript": "javascriptreact",
+    "javascriptreact": "html"
+  },
+  // ===== Workbench =====
+  "workbench.colorTheme": "Default Dark+", // dark theme
+  "workbench.editor.highlightModifiedTabs": true, // show changed tabs
+  "workbench.editor.enablePreview": false, // open new tab every time
+  // ===== Git & UI =====
+  "git.decorations.enabled": true, // git icons
+  "breadcrumbs.enabled": false, // no breadcrumbs
+  // ===== Terminal =====
+  "terminal.integrated.fontFamily": "'Fira Code', monospace", // terminal font
+  "terminal.integrated.fontLigatures": true, // terminal ligatures
+  // ===== Colors =====
+  "workbench.colorCustomizations": { // colors for status & terminal
+    "statusBar.background": "#2e2d2e",
+    "statusBar.foreground": "#FFFFFF",
+    "statusBar.debuggingBackground": "#363538",
+    "terminal.background": "#1E1E1E",
+    "terminal.foreground": "#CCCCCC"
+  }
+}
