@@ -2,8 +2,6 @@
 
 This VSCode config is all about keeping your coding space simple and easy to use — especially if you’re into JavaScript and web dev. It helps make your code neat and readable, with just the right features turned on so nothing gets in your way. Plus, it’s lightweight and fast, so your editor feels smooth all day long.
 
-![image](https://github.com/sifatfaysald/vscode-config/blob/main/img/vscode.gif)
-
 
 ## What’s inside?
 
